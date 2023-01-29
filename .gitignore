@@ -2,3 +2,5 @@
 build/
 thirdparty/NTL
 helib.log
+.idea/
+cmake-build-debug/
